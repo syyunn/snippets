@@ -1,0 +1,4 @@
+# make new session w/ name
+screen -S [session_name]
+
+# 
