@@ -1,4 +1,5 @@
 # make new session w/ name
 screen -S [session_name]
 
-# 
+# list up current sessions
+screen -ls
